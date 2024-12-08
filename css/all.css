@@ -1,6 +1,8 @@
 .bg{
-    background-image: url(/img/xmas.jpg);
+    background-image: url(../img/xmas.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100vh; /* 設置高度以便顯示背景 */
+    width: 100%; /* 設置寬度 */
 }
